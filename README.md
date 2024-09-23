@@ -1,4 +1,4 @@
-# Coursel-Vue.js
+# Slider.js
 This is a Slider project built using Javascript, Css and Html.
 
 
